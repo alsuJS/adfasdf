@@ -1,0 +1,33 @@
+.bg {
+  width: 392px;
+  height: 476px;
+  border: 1px solid gray;
+  border-radius: 15px;
+}
+
+.bg1 {
+    margin: 5px;
+    text-align: center;
+}
+.bg2 {
+    margin: 5px;
+    padding-top: 10px;
+}
+.zurag{
+    width: 360px;
+    height: 240px;
+    border-radius: 15px;
+    background-position: center;
+}
+.btn {
+    border:none;
+    color: #4B6BFB;
+    padding: 5px;
+    font-size: 14px;
+    font-weight: 500;
+}
+.pra{
+    font-size: 28px;
+    font-weight: 600px;
+   
+}
